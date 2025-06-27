@@ -1,0 +1,342 @@
+
+Data Prakiraan Cuaca Terbuka BMKG
+(Cuaca Pelabuhan)
+
+Data prakiraan cuaca pelabuhan pada 2 rilis terakhir yang dirilis oleh stasiun BMKG
+
+Format data: JSON
+Jumlah data: 291
+Penjelasan parameter: Menuju penjelasan
+Perhatian! Wajib untuk mencantumkan BMKG (Badan Meteorologi, Klimatologi, dan Geofisika) sebagai sumber data.
+Data Prakiraan Cuaca Pelabuhan
+#	Code	Data	Issued	Size
+1	0088	Sintete	2025-06-26 23:40 UTC	1726 bytes
+2	0310	PPP Sungai Rengas	2025-06-26 23:40 UTC	1741 bytes
+3	0092	Kendawangan	2025-06-26 23:40 UTC	1731 bytes
+4	0237	Nunukan	2025-06-26 23:40 UTC	1678 bytes
+5	0603	Sanur	2025-06-26 23:40 UTC	1815 bytes
+6	0325	PPP Labuhan Maringgai	2025-06-26 23:40 UTC	1715 bytes
+7	0559	Mentigi	2025-06-26 23:40 UTC	1811 bytes
+8	0452	Arar	2025-06-26 23:40 UTC	1680 bytes
+9	0219	Biringkasi	2025-06-26 23:40 UTC	1682 bytes
+10	0505	PPN Merauke	2025-06-26 23:40 UTC	1774 bytes
+11	0475	Pulau Tiga	2025-06-26 23:40 UTC	1770 bytes
+12	0465	Likupang	2025-06-26 23:40 UTC	1683 bytes
+13	0169	Nusa Penida	2025-06-26 23:40 UTC	1825 bytes
+14	0531	Pamamata, Selayar	2025-06-26 23:40 UTC	1802 bytes
+15	0231	Langara	2025-06-26 23:40 UTC	1714 bytes
+16	0229	Raha	2025-06-26 23:40 UTC	1689 bytes
+17	0581	Kamaru	2025-06-26 23:40 UTC	1767 bytes
+18	0198	Tanjung Santan	2025-06-26 23:40 UTC	1697 bytes
+19	0167	Padangbai	2025-06-26 23:40 UTC	1769 bytes
+20	0107	Cirebon	2025-06-26 23:40 UTC	1674 bytes
+21	0199	Sangkuliran	2025-06-26 23:40 UTC	1691 bytes
+22	0416	Mawasangka	2025-06-26 23:40 UTC	1707 bytes
+23	0383	Tanjung Batu	2025-06-26 23:40 UTC	1732 bytes
+24	0598	Tomia	2025-06-26 23:40 UTC	1797 bytes
+25	0543	Wakai	2025-06-26 23:40 UTC	1664 bytes
+26	0537	Talang Duku	2025-06-26 23:40 UTC	1592 bytes
+27	0490	TPI Ie Meulle	2025-06-26 23:40 UTC	1772 bytes
+28	0432	Kayoa	2025-06-26 23:40 UTC	1715 bytes
+29	0566	Pulau Temajo	2025-06-26 23:40 UTC	1724 bytes
+30	0401	Lewoleba	2025-06-26 23:40 UTC	1677 bytes
+31	0553	Wowong	2025-06-26 23:40 UTC	1673 bytes
+32	0010	Soekarno - Hatta	2025-06-26 23:40 UTC	1707 bytes
+33	0245	Gorontalo	2025-06-26 23:40 UTC	1680 bytes
+34	0584	Weda	2025-06-26 23:40 UTC	1721 bytes
+35	0002	Teluk Bayur	2025-06-26 23:40 UTC	1686 bytes
+36	0427	PPN Donggala	2025-06-26 23:40 UTC	1683 bytes
+37	0606	Wakai	2025-06-26 23:40 UTC	1663 bytes
+38	0486	TPI Panimbang	2025-06-26 23:40 UTC	1690 bytes
+39	0371	ASDP Bakauheni	2025-06-26 23:40 UTC	1696 bytes
+40	0593	Goto	2025-06-26 23:40 UTC	1711 bytes
+41	0477	Subi	2025-06-26 23:40 UTC	1703 bytes
+42	0544	Toboli	2025-06-26 23:40 UTC	1666 bytes
+43	0116	Bojonegara	2025-06-26 23:40 UTC	1683 bytes
+44	0099	Tanjung Pandan	2025-06-26 23:40 UTC	1705 bytes
+45	0084	Sekupang	2025-06-26 23:40 UTC	1703 bytes
+46	0572	Labuan, Buton Utara	2025-06-26 23:40 UTC	1730 bytes
+47	0540	PPI Nipah Panjang	2025-06-26 23:40 UTC	1704 bytes
+48	0577	Waara	2025-06-26 23:40 UTC	1696 bytes
+49	0194	Samarinda	2025-06-26 23:40 UTC	1590 bytes
+50	0491	Kuala Tanjung	2025-06-26 23:40 UTC	1700 bytes
+51	0356	PPS Bitung	2025-06-26 23:40 UTC	1692 bytes
+52	0451	Waesai	2025-06-26 23:40 UTC	1687 bytes
+53	0587	Kijing International Port	2025-06-26 23:40 UTC	1730 bytes
+54	0414	Dongkala	2025-06-26 23:40 UTC	1697 bytes
+55	0089	Sukabangun	2025-06-26 23:40 UTC	1696 bytes
+56	0232	Baubau	2025-06-26 23:40 UTC	1699 bytes
+57	0564	Pulau Lemukutan	2025-06-26 23:40 UTC	1738 bytes
+58	0493	Calang	2025-06-26 23:40 UTC	1721 bytes
+59	0428	Klademak	2025-06-26 23:40 UTC	1697 bytes
+60	0605	Tobelo	2025-06-26 23:40 UTC	1693 bytes
+61	0268	Namlea	2025-06-26 23:40 UTC	1675 bytes
+62	0585	Sanana	2025-06-26 23:40 UTC	1725 bytes
+63	0435	Sofifi	2025-06-26 23:40 UTC	1687 bytes
+64	0243	Poso	2025-06-26 23:40 UTC	1665 bytes
+65	0387	Garongkong	2025-06-26 23:40 UTC	1686 bytes
+66	0539	Muara Sabak	2025-06-26 23:40 UTC	1608 bytes
+67	0009	Dwikora	2025-06-26 23:40 UTC	1618 bytes
+68	0560	Sampalan	2025-06-26 23:40 UTC	1816 bytes
+69	0359	PPN Ternate	2025-06-26 23:40 UTC	1735 bytes
+70	0331	PPP Bajomulyo	2025-06-26 23:40 UTC	1698 bytes
+71	0172	Lembar	2025-06-26 23:40 UTC	1753 bytes
+72	0561	Tribuana Kusamba	2025-06-26 23:40 UTC	1801 bytes
+73	0189	Waingapu	2025-06-26 23:40 UTC	1755 bytes
+74	0448	Daruba-Morotai	2025-06-26 23:40 UTC	1714 bytes
+75	0005	Tanjung Intan	2025-06-26 23:40 UTC	1816 bytes
+76	0464	Amurang	2025-06-26 23:40 UTC	1672 bytes
+77	0027	Gunung Sitoli	2025-06-26 23:40 UTC	1683 bytes
+78	0480	Ciwandan	2025-06-26 23:40 UTC	1676 bytes
+79	0313	PPN Tanjung Pandan	2025-06-26 23:40 UTC	1720 bytes
+80	0026	Sibolga	2025-06-26 23:40 UTC	1675 bytes
+81	0225	Kolonodale	2025-06-26 23:40 UTC	1691 bytes
+82	0328	PPP Teladas	2025-06-26 23:40 UTC	1694 bytes
+83	0297	Kokas	2025-06-26 23:40 UTC	1694 bytes
+84	0499	Galesong	2025-06-26 23:40 UTC	1678 bytes
+85	0389	Tebas Kuala	2025-06-26 23:40 UTC	1656 bytes
+86	0114	PP Labuan	2025-06-26 23:40 UTC	1678 bytes
+87	0311	PPP Teluk Batang	2025-06-26 23:40 UTC	1687 bytes
+88	0280	Serui	2025-06-26 23:40 UTC	1684 bytes
+89	0301	PPS Belawan	2025-06-26 23:40 UTC	1698 bytes
+90	0012	Samudera	2025-06-26 23:40 UTC	1690 bytes
+91	0023	Sinabang	2025-06-26 23:40 UTC	1676 bytes
+92	0399	Aimere	2025-06-26 23:40 UTC	1750 bytes
+93	0269	Amahai	2025-06-26 23:40 UTC	1687 bytes
+94	0546	Ampana	2025-06-26 23:40 UTC	1667 bytes
+95	0003	Panjang	2025-06-26 23:40 UTC	1675 bytes
+96	0215	Bajoe	2025-06-26 23:40 UTC	1680 bytes
+97	0315	PPN Kejawanan	2025-06-26 23:40 UTC	1692 bytes
+98	0597	Ambarita	2025-06-26 23:40 UTC	1575 bytes
+99	0105	Muara Angke	2025-06-26 23:40 UTC	1689 bytes
+100	0567	Pototano	2025-06-26 23:40 UTC	1681 bytes
+101	0082	Ferry Harbour Bay	2025-06-26 23:40 UTC	1730 bytes
+102	0576	Bira	2025-06-26 23:40 UTC	1679 bytes
+103	0579	Kadatua	2025-06-26 23:40 UTC	1769 bytes
+104	0340	PPS Cilacap	2025-06-26 23:40 UTC	1806 bytes
+105	0463	Amolengo	2025-06-26 23:40 UTC	1697 bytes
+106	0370	ASDP Merak	2025-06-26 23:40 UTC	1685 bytes
+107	0224	Banggai	2025-06-26 23:40 UTC	1721 bytes
+108	0583	Gebe	2025-06-26 23:40 UTC	1670 bytes
+109	0015	Yos Sudarso	2025-06-26 23:40 UTC	1738 bytes
+110	0541	Taman Nasional Pulau Komodo	2025-06-26 23:40 UTC	1810 bytes
+111	0591	Logending	2025-06-26 23:40 UTC	1806 bytes
+112	0250	Manado	2025-06-26 23:40 UTC	1679 bytes
+113	0246	PPN Kwandang	2025-06-26 23:40 UTC	1689 bytes
+114	0501	Muara Sampara	2025-06-26 23:40 UTC	1718 bytes
+115	0346	PPP Tamperan	2025-06-26 23:40 UTC	1814 bytes
+116	0284	Manokwari	2025-06-26 23:40 UTC	1689 bytes
+117	0578	Tolandano	2025-06-26 23:40 UTC	1702 bytes
+118	0586	Bobong	2025-06-26 23:40 UTC	1766 bytes
+119	0534	Internasional Tanjung Balai Karimun	2025-06-26 23:40 UTC	1754 bytes
+120	0334	PPP Tasik Agung	2025-06-26 23:40 UTC	1708 bytes
+121	0569	Kupal	2025-06-26 23:40 UTC	1687 bytes
+122	0011	Kendari	2025-06-26 23:40 UTC	1696 bytes
+123	0361	PPN Ambon	2025-06-26 23:40 UTC	1729 bytes
+124	0185	Seba	2025-06-26 23:40 UTC	1786 bytes
+125	0554	Balauring	2025-06-26 23:40 UTC	1690 bytes
+126	0151	Gresik	2025-06-26 23:40 UTC	1669 bytes
+127	0186	Rote	2025-06-26 23:40 UTC	1744 bytes
+128	0590	Larangan Tegal	2025-06-26 23:40 UTC	1690 bytes
+129	0380	Tanjung Api Api	2025-06-26 23:40 UTC	1701 bytes
+130	0119	Kota Agung	2025-06-26 23:40 UTC	1681 bytes
+131	0004	Tanjung Priok	2025-06-26 23:40 UTC	1696 bytes
+132	0496	PPP Klidang Lor	2025-06-26 23:40 UTC	1705 bytes
+133	0594	Sipinggan	2025-06-26 23:40 UTC	1577 bytes
+134	0466	Pananaru	2025-06-26 23:40 UTC	1688 bytes
+135	0121	Mesuji	2025-06-26 23:40 UTC	1570 bytes
+136	0286	Merauke	2025-06-26 23:40 UTC	1742 bytes
+137	0557	Reo	2025-06-26 23:40 UTC	1667 bytes
+138	0267	Banda Neira	2025-06-26 23:40 UTC	1818 bytes
+139	0599	Kaledupa	2025-06-26 23:40 UTC	1804 bytes
+140	0500	Bangsalae	2025-06-26 23:40 UTC	1691 bytes
+141	0433	Sidangole	2025-06-26 23:40 UTC	1736 bytes
+142	0565	Sui Kunyit	2025-06-26 23:40 UTC	1681 bytes
+143	0589	Wonokerto	2025-06-26 23:40 UTC	1688 bytes
+144	0195	Tarakan	2025-06-26 23:40 UTC	1665 bytes
+145	0457	Sausapor	2025-06-26 23:40 UTC	1692 bytes
+146	0552	Hansisi	2025-06-26 23:40 UTC	1753 bytes
+147	0014	Batu Ampar	2025-06-26 23:40 UTC	1706 bytes
+148	0574	Tanjung Pising	2025-06-26 23:40 UTC	1714 bytes
+149	0335	PPP Tawang	2025-06-26 23:40 UTC	1687 bytes
+150	0476	Midai	2025-06-26 23:40 UTC	1672 bytes
+151	0458	Babo	2025-06-26 23:40 UTC	1672 bytes
+152	0600	Binongko	2025-06-26 23:40 UTC	1794 bytes
+153	0592	Sentolo Kawat	2025-06-26 23:40 UTC	1812 bytes
+154	0595	Balige	2025-06-26 23:40 UTC	1572 bytes
+155	0170	ASDP Gilimanuk	2025-06-26 23:40 UTC	1704 bytes
+156	0551	Maumere	2025-06-26 23:40 UTC	1673 bytes
+157	0555	Adonara	2025-06-26 23:40 UTC	1673 bytes
+158	0471	Letung	2025-06-26 23:40 UTC	1681 bytes
+159	0573	Kasipute	2025-06-26 23:40 UTC	1695 bytes
+160	0556	Pulau Palue	2025-06-26 23:40 UTC	1679 bytes
+161	0154	Kalianget	2025-06-26 23:40 UTC	1756 bytes
+162	0571	Indari	2025-06-26 23:40 UTC	1726 bytes
+163	0474	Sedanau	2025-06-26 23:40 UTC	1688 bytes
+164	0336	PPP Tegalsari	2025-06-26 23:40 UTC	1687 bytes
+165	0333	Morodemak	2025-06-26 23:40 UTC	1676 bytes
+166	0165	Benoa, Bali	2025-06-26 23:40 UTC	1828 bytes
+167	0545	Pagimana	2025-06-26 23:40 UTC	1679 bytes
+168	0473	Pulau Laut	2025-06-26 23:40 UTC	1780 bytes
+169	0450	Krui	2025-06-26 23:40 UTC	1709 bytes
+170	0492	Idi	2025-06-26 23:40 UTC	1665 bytes
+171	0270	Tulehu	2025-06-26 23:40 UTC	1693 bytes
+172	0443	Subaim	2025-06-26 23:40 UTC	1686 bytes
+173	0441	Ferry Batam Centre International	2025-06-26 23:40 UTC	1770 bytes
+174	0309	PPN Pemangkat	2025-06-26 23:40 UTC	1747 bytes
+175	0193	Semayang, Balikpapan	2025-06-26 23:40 UTC	1728 bytes
+176	0533	Cituis Rawa Saban	2025-06-26 23:40 UTC	1700 bytes
+177	0028	Teluk Dalam	2025-06-26 23:40 UTC	1729 bytes
+178	0487	PPI Binuangen	2025-06-26 23:40 UTC	1776 bytes
+179	0502	PP Muara Kintap	2025-06-26 23:40 UTC	1712 bytes
+180	0164	ASDP Ketapang	2025-06-26 23:40 UTC	1701 bytes
+181	0580	Siompu	2025-06-26 23:40 UTC	1768 bytes
+182	0016	Malahayati	2025-06-26 23:40 UTC	1682 bytes
+183	0329	PPN Pekalongan	2025-06-26 23:40 UTC	1703 bytes
+184	0472	Kuala Maras	2025-06-26 23:40 UTC	1694 bytes
+185	0168	Celukan Bawang	2025-06-26 23:40 UTC	1712 bytes
+186	0596	Ajibata	2025-06-26 23:40 UTC	1572 bytes
+187	0542	Raijua	2025-06-26 23:40 UTC	1781 bytes
+188	0200	Lok Tuan	2025-06-26 23:40 UTC	1676 bytes
+189	0588	Asem Doyong	2025-06-26 23:40 UTC	1681 bytes
+190	0563	Teluk Suak	2025-06-26 23:40 UTC	1682 bytes
+191	0418	Penajam	2025-06-26 23:40 UTC	1692 bytes
+192	0191	Larantuka	2025-06-26 23:40 UTC	1677 bytes
+193	0291	Sorong	2025-06-26 23:40 UTC	1691 bytes
+194	0272	Dobo	2025-06-26 23:40 UTC	1683 bytes
+195	0353	PPS Kendari	2025-06-26 23:40 UTC	1706 bytes
+196	0568	Kayangan	2025-06-26 23:40 UTC	1680 bytes
+197	0188	Kalabahi	2025-06-26 23:40 UTC	1683 bytes
+198	0429	Pantoloan	2025-06-26 23:40 UTC	1676 bytes
+199	0524	Jangkar	2025-06-26 23:40 UTC	1669 bytes
+200	0602	Depapre	2025-06-26 23:40 UTC	1678 bytes
+201	0489	PP Sumur	2025-06-26 23:40 UTC	1674 bytes
+202	0497	PP Mayangan	2025-06-26 23:40 UTC	1695 bytes
+203	0438	Babang	2025-06-26 23:40 UTC	1695 bytes
+204	0085	Tarempa	2025-06-26 23:40 UTC	1695 bytes
+205	0419	Karingau	2025-06-26 23:40 UTC	1691 bytes
+206	0101	Sunda Kelapa	2025-06-26 23:40 UTC	1692 bytes
+207	0412	Torobulu	2025-06-26 23:40 UTC	1698 bytes
+208	0182	Labuan Bajo	2025-06-26 23:40 UTC	1686 bytes
+209	0406	Tondasi, Muna Barat	2025-06-26 23:40 UTC	1729 bytes
+210	0129	Karimun Jawa	2025-06-26 23:40 UTC	1788 bytes
+211	0570	Busua	2025-06-26 23:40 UTC	1714 bytes
+212	0142	Kumai	2025-06-26 23:40 UTC	1582 bytes
+213	0278	Jayapura	2025-06-26 23:40 UTC	1696 bytes
+214	0407	Sikeli	2025-06-26 23:40 UTC	1694 bytes
+215	0479	Rasau Jaya	2025-06-26 23:40 UTC	1587 bytes
+216	0478	Serasan	2025-06-26 23:40 UTC	1753 bytes
+217	0434	Rum	2025-06-26 23:40 UTC	1707 bytes
+218	0548	Dolong	2025-06-26 23:40 UTC	1680 bytes
+219	0104	Kalibaru	2025-06-26 23:40 UTC	1681 bytes
+220	0102	Marunda	2025-06-26 23:40 UTC	1678 bytes
+221	0444	Wa Ode Buri	2025-06-26 23:40 UTC	1824 bytes
+222	0483	Pelabuhan di DKI Jakartaa	2025-06-26 23:40 UTC	1738 bytes
+223	0326	PPP Lempasing	2025-06-26 23:40 UTC	1695 bytes
+224	0398	Bolok	2025-06-26 23:40 UTC	1753 bytes
+225	0481	Pelabuhan ANyer	2025-06-26 23:40 UTC	1700 bytes
+226	0008	Tenau	2025-06-26 23:40 UTC	1757 bytes
+227	0538	Roro Kuala Tungkal	2025-06-26 23:40 UTC	1710 bytes
+228	0292	Fak-fak	2025-06-26 23:40 UTC	1681 bytes
+229	0402	Waiwerang	2025-06-26 23:40 UTC	1677 bytes
+230	0413	Tampo	2025-06-26 23:40 UTC	1685 bytes
+231	0536	Khusus Bea Cukai	2025-06-26 23:40 UTC	1696 bytes
+232	0128	Jepara	2025-06-26 23:40 UTC	1713 bytes
+233	0405	Pamamata	2025-06-26 23:40 UTC	1775 bytes
+234	0404	Tanjung Bira	2025-06-26 23:40 UTC	1703 bytes
+235	0006	Tanjung Mas	2025-06-26 23:40 UTC	1688 bytes
+236	0547	Pasokan	2025-06-26 23:40 UTC	1684 bytes
+237	0350	PPN Pengambengan	2025-06-26 23:40 UTC	1831 bytes
+238	0459	Misool	2025-06-26 23:40 UTC	1676 bytes
+239	0281	Nabire	2025-06-26 23:40 UTC	1686 bytes
+240	0504	Patimban	2025-06-26 23:40 UTC	1672 bytes
+241	0379	Tua Pejat	2025-06-26 23:40 UTC	1715 bytes
+242	0115	PP Karangantu	2025-06-26 23:40 UTC	1688 bytes
+243	0494	Susoh Blang Pidie	2025-06-26 23:40 UTC	1697 bytes
+244	0377	Teluk Bungus	2025-06-26 23:40 UTC	1690 bytes
+245	0582	Buli	2025-06-26 23:40 UTC	1680 bytes
+246	0285	Wasior	2025-06-26 23:40 UTC	1686 bytes
+247	0575	Pure	2025-06-26 23:40 UTC	1684 bytes
+248	0271	Tual	2025-06-26 23:40 UTC	1761 bytes
+249	0013	Biak	2025-06-26 23:40 UTC	1687 bytes
+250	0252	Lirung	2025-06-26 23:40 UTC	1713 bytes
+251	0446	Pulau Moti	2025-06-26 23:40 UTC	1724 bytes
+252	0430	Pondong	2025-06-26 23:40 UTC	1678 bytes
+253	0276	Waipirit	2025-06-26 23:40 UTC	1691 bytes
+254	0431	Bastiong	2025-06-26 23:40 UTC	1726 bytes
+255	0549	Marisa	2025-06-26 23:40 UTC	1670 bytes
+256	0409	Kolaka	2025-06-26 23:40 UTC	1675 bytes
+257	0498	Tanjung Silopo	2025-06-26 23:40 UTC	1698 bytes
+258	0187	Atapupu	2025-06-26 23:40 UTC	1675 bytes
+259	0437	Tobelo	2025-06-26 23:40 UTC	1693 bytes
+260	0047	Tanjung Balai Asahan	2025-06-26 23:40 UTC	1720 bytes
+261	0423	Wanci	2025-06-26 23:40 UTC	1765 bytes
+262	0469	Penagi	2025-06-26 23:40 UTC	1688 bytes
+263	0550	Ende, Flores	2025-06-26 23:40 UTC	1780 bytes
+264	0528	Marina Tanjung Lesung	2025-06-26 23:40 UTC	1717 bytes
+265	0001	Belawan	2025-06-26 23:40 UTC	1682 bytes
+266	0470	Sampit	2025-06-26 23:40 UTC	1589 bytes
+267	0251	Tahuna	2025-06-26 23:40 UTC	1688 bytes
+268	0601	Pangandaran	2025-06-26 23:40 UTC	1815 bytes
+269	0485	Indah Kiat	2025-06-26 23:40 UTC	1682 bytes
+270	0529	Padang Tikar	2025-06-26 23:40 UTC	1685 bytes
+271	0532	Batulicin	2025-06-26 23:40 UTC	1685 bytes
+272	0257	Ahmad Yani, Ternate	2025-06-26 23:40 UTC	1755 bytes
+273	0488	PP Pasauran	2025-06-26 23:40 UTC	1685 bytes
+274	0535	Parit Rampak	2025-06-26 23:40 UTC	1683 bytes
+275	0562	Ulu Siau	2025-06-26 23:40 UTC	1677 bytes
+276	0207	Pare-pare	2025-06-26 23:40 UTC	1759 bytes
+277	0495	PPP Carocok	2025-06-26 23:40 UTC	1699 bytes
+278	0106	PPS Muara Baru	2025-06-26 23:40 UTC	1698 bytes
+279	0382	Tanjung Kelian	2025-06-26 23:40 UTC	1693 bytes
+280	0530	Bira	2025-06-26 23:40 UTC	1679 bytes
+281	0391	Sangkapura	2025-06-26 23:40 UTC	1763 bytes
+282	0456	Dermaga Usaha Mina	2025-06-26 23:40 UTC	1723 bytes
+283	0417	Luwuk	2025-06-26 23:40 UTC	1740 bytes
+284	0449	Pulau Makian	2025-06-26 23:40 UTC	1731 bytes
+285	0455	Pelayaran Rakyat Sorong	2025-06-26 23:40 UTC	1742 bytes
+286	0007	Tanjung Perak	2025-06-26 23:40 UTC	1690 bytes
+287	0339	PP Banjarmasin	2025-06-26 23:40 UTC	1599 bytes
+288	0558	Solor	2025-06-26 23:40 UTC	1665 bytes
+289	0183	Baranusa, Alor	2025-06-26 23:40 UTC	1734 bytes
+290	0439	Batang Dua	2025-06-26 23:40 UTC	1770 bytes
+291	0173	Bima, NTB	2025-06-26 23:40 UTC	1680 bytes
+Parameter
+issued: Waktu publikasi atau rilis prakiraan oleh stasiun dalam UTC (format YYYY-MM-DD hh:mm)
+valid_from: Waktu awal berlakunya prakiraan (format YYYY-MM-DD hh:mm)
+valid_to: Waktu akhir berlakunya prakiraan (format YYYY-MM-DD hh:mm)
+time_desc: Deskripsi waktu (Hari ini, Besok, H+2, H+3)
+weather: Kondisi cuaca (Cerah, Cerah Berawan, Berawan, Berawan Tebal, Asap, Kabut, Hujan Ringan, Hujan Sedang, Hujan Lebat, Hujan Lokal, Hujan Badai)
+weather_desc: Deskripsi cuaca secara umum / Kondisi synoptik
+warning_desc: Peringatan dini cuaca buruk
+wave_cat: Kategori gelombang (Tenang, Rendah, Sedang, Tinggi, Sangat Tinggi, Ekstrem, Sangat Ekstrem)
+wave_desc: Rentang rata-rata tinggi gelombang dalam meter
+wind_from: Arah angin - dari (Utara ,Utara Timur Laut, Timur Laut, Timur Timur Laut, Timur, Timur Tenggara, Tenggara, Selatan Tenggara, Selatan, Selatan Barat Daya, Barat Daya, Barat Barat daya, Barat, Barat Barat Laut, Barat Laut, Utara Barat Laut)
+wind_to: Arah angin - menuju (Utara ,Utara Timur Laut, Timur Laut, Timur Timur Laut, Timur, Timur Tenggara, Tenggara, Selatan Tenggara, Selatan, Selatan Barat Daya, Barat Daya, Barat Barat daya, Barat, Barat Barat Laut, Barat Laut, Utara Barat Laut)
+wind_speed_min: Kecepatan minimum angin dalam satuan knot
+wind_speed_max: Kecepatan maksimum angin dalam satuan knot
+current_from:Arah arus - dari (Utara ,Utara Timur Laut, Timur Laut, Timur Timur Laut, Timur, Timur Tenggara, Tenggara, Selatan Tenggara, Selatan, Selatan Barat Daya, Barat Daya, Barat Barat daya, Barat, Barat Barat Laut, Barat Laut, Utara Barat Laut)
+current_to:Arah arus - menuju (Utara ,Utara Timur Laut, Timur Laut, Timur Timur Laut, Timur, Timur Tenggara, Tenggara, Selatan Tenggara, Selatan, Selatan Barat Daya, Barat Daya, Barat Barat daya, Barat, Barat Barat Laut, Barat Laut, Utara Barat Laut)
+current_speed_min: Kecepatan minimum arus dalam satuan cm/s
+current_speed_max: Kecepatan maksimum arus dalam satuan cm/s
+visibility: Jarak pandang
+rh_min: Kelembapan minimum dalam persen
+rh_max: Kelembapan minimum dalam persen
+temp_min: Suhu udara minimum dalam satuan derajat celsius
+temp_max: Suhu udara maksimum dalam satuan derajat celsius
+low_tide: Surut terendah dalam satuan meter
+low_tide_time: Waktu surut terendah
+high_tide: Pasang tertinggi dalam satuan meter
+high_tide_time: Waktu pasang tertinggi
+Hubungi Kami
+Silakan hubungi kami melalui email
+
+support@bmkg.go.id
+
+Tentang
+BMKG.go.id
+Twitter
+Facebook
+Instagram
+YouTube
+© 2019 - Badan Meteorologi, Klimatologi, dan Geofisika
